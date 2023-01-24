@@ -4,27 +4,32 @@ title = 'Yannik Zimmermann'
 theme = 'devise'
 enableInlineShortcodes = true
 relativeURLs = true
-enableEmoji = true
+enableEmoji = false
 googleAnalytics = ""
-enableRobotsTXT = true
-copyright = "&copy; Copyright Year, Your Name"
+enableRobotsTXT = false
+disableKinds = ["taxonomy", "term"]
+
+# needed for disabling
+[taxonomies]
+    category = "categories"
+    tag = "tags"
 
 # Configuration Features
 [params]
 	description = "description"      # Your meta description of the site
 	header_title = "Yannik Zimmermann"                 # Your header title
 	header_subtitle = "PhD Theoretical Physics | Software Engineer | Berlin" # Your header subtitle
-	home_image = "/images/avatar.png"          # Path to header image starting from the static directory
+	home_image = "portrait.jpg"          # Path to header image starting from the static directory
 [params.style]                             # CSS style overrides
 	backgroundColor = "#f8f9fa"
 	fontColor = "#212529"
-[[params.social]]
-	fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
-	href = "http://github.com/youruser"      # Link to associate with icon (http://, https://, mailto:)
+#[[params.social]]
+	#fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+	#href = "http://github.com/youruser"      # Link to associate with icon (http://, https://, mailto:)
 [[params.social]]
 	fa_icon = "fab fa-linkedin-in fa-1x"
-	href = ""
+	href = "https://www.linkedin.com/in/yannik-zimmermann/"
 [[params.social]]
 	fa_icon = "fas fa-at fa-1x"
-	href = ""
+	href = "mailto:mail@yannikzimmermann.de"
 
