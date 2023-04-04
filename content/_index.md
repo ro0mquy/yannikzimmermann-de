@@ -3,6 +3,12 @@ I just finished my PhD in Theoretical Physics, where I got pretty good at implem
 But really? What I do is going on adventures through new ideas and concepts. I let my curiosity lead the way as I explore and discover new connections and ways of thinking. And then I come back and tell my friends and colleagues all about the cool stuff I found. It's like a treasure hunt for the mind.
 
 
+# Things I write
+The physics papers leading to my PhD on string theory:
+* [The twisted story of worldsheet scattering in η-deformed AdS5 × S5](https://inspirehep.net/literature/1807758)
+* [On quantum deformations of AdS3 × S3 × T4 and mirror duality](https://inspirehep.net/literature/1877687)
+* [Do Drinfeld twists of AdS5×S5 survive light-cone quantization?](https://inspirehep.net/literature/1994095)
+
 # Things I create
 **Ikaros Academy** –
 I am co-organizer of the [Ikaros Academy](https://ikarosakademie.de/), a three-day seminar located in the medieval castle of Diez.
