@@ -17,6 +17,7 @@ Join us some day!
 I used to code short movies and 3D graphics with my friends of the demogroup [rtificial](https://rtificial.org/).
 Our videos were 3 minutes of flashing visuals and dope sound – fresh out of our custom-made video editor and rendering engine and pressed into 64 kilobytes.
 Unfortunately, due to a lack of creative talent, my interest eventually waned, but the eye for aesthetics remains with me.
+Check out the [Github project](https://github.com/ro0mquy/rtificial)!.
 
 # Things I like
 **Self-Exploration** –

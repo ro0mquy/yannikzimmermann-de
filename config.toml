@@ -23,9 +23,9 @@ disableKinds = ["taxonomy", "term"]
 [params.style]                             # CSS style overrides
 	backgroundColor = "#f8f9fa"
 	fontColor = "#212529"
-#[[params.social]]
-	#fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
-	#href = "http://github.com/youruser"      # Link to associate with icon (http://, https://, mailto:)
+[[params.social]]
+	fa_icon = "fab fa-github fa-1x"
+	href = "https://github.com/ro0mquy"
 [[params.social]]
 	fa_icon = "fab fa-linkedin-in fa-1x"
 	href = "https://www.linkedin.com/in/yannik-zimmermann/"
