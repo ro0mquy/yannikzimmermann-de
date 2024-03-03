@@ -77,7 +77,7 @@ Books I enjoyed include: *Meaningness* by David Chapman, *Black Swan* by Nassim 
 
 {{< Alan.inline >}}{{`
 <blockquote>
-    Yannik is curious and unafraid to take risks and try new things.
+    Yannik is curious, unafraid to take risks and try new things.
     <footer>
         —
 		<cite class="author">
@@ -92,3 +92,21 @@ Books I enjoyed include: *Meaningness* by David Chapman, *Black Swan* by Nassim 
     </footer>
 </blockquote>
 `}}{{< /Alan.inline >}}
+
+{{< Fran.inline >}}{{`
+<blockquote>
+    Yannik uniquely blends new perspectives with action, making ideas happen. A truly rare and valuable combo.
+    <footer>
+        —
+		<cite class="author">
+			<a href="https://francisco-simoes.github.io/">
+				Francisco Simoes
+			</a>
+		</cite>
+		,
+		<cite class="company">
+			Utrecht University, Intelligent Systems
+		</cite>
+    </footer>
+</blockquote>
+`}}{{< /Fran.inline >}}

@@ -5,6 +5,7 @@
     <link>https://yannikzimmermann.de/</link>
     <description>Recent content on Yannik Zimmermann</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yannikzimmermann.de/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://yannikzimmermann.de/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
