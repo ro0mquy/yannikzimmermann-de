@@ -1,4 +1,4 @@
-I just finished my PhD in Theoretical Physics, where I got pretty good at implementing advanced algorithms to study the behavior of elementary particles and strings. I also got pretty good at making [cool looking slides](https://yannikzimmermann.de/upload/Swampland%20Distance%20Conjecture.pdf) to talk about my research at conferences.
+I am a data scientist and doctor of Theoretical Physics, which made me pretty good at implementing advanced algorithms to study the behavior of elementary particles and strings. I also got pretty good at making [cool looking slides](https://yannikzimmermann.de/upload/Swampland%20Distance%20Conjecture.pdf) to talk about my research at conferences.
 
 But really? What I do is going on adventures through new ideas and concepts. I let my curiosity lead the way as I explore and discover new connections and ways of thinking. And then I come back and tell my friends and colleagues all about the cool stuff I found. It's like a treasure hunt for the mind.
 
