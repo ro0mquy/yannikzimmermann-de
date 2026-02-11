@@ -1,61 +1,52 @@
-I am a data scientist and doctor of Theoretical Physics, which made me pretty good at implementing advanced algorithms to study the behavior of elementary particles and strings. I also got pretty good at making [cool looking slides](https://yannikzimmermann.de/upload/Swampland%20Distance%20Conjecture.pdf) to talk about my research at conferences.
+I did a PhD in theoretical physics. String theory, quantum deformations, 3 published papers. Then I left academia and started building things.
 
-But really? What I do is going on adventures through new ideas and concepts. I let my curiosity lead the way as I explore and discover new connections and ways of thinking. And then I come back and tell my friends and colleagues all about the cool stuff I found. It's like a treasure hunt for the mind.
+I built ML systems that reconstruct 3D pipeline geometries from magnetic field data. That work ended up being used by BP, Shell, Chevron, and NATO — over 10,000 km of pipelines inspected. I built a reporting automation for a YouTube agency that bumped client retention from 4 to 6+ months. $35K+ in extra revenue from that one change.
+
+Now I run [Dark Gravity Labs](https://darkgravitylabs.com) — an automation agency focused on talent agencies. Booking automation, contract management, invoicing, talent platforms. If you're doing something manually that a machine should do, I can probably fix that.
+
+**mail@yannikzimmermann.de**
 
 
-# Things I write
-The physics papers leading to my PhD on string theory:
+# What I've built
+
+**ML pipeline inspection** — 3D reconstruction from magnetic field data for a pipeline company serving BP, Shell, Chevron, NATO. First-ever underwater pipeline inspection capability.
+
+**YouTube agency reporting** — One-click reports with YouTube API integration. Retention went from 4 to 6+ months. $35K+ in additional revenue.
+
+**Voice agent for therapy startup** — Conversational AI agent, concept to production.
+
+**[Demoscene visuals](https://rtificial.org/)** — Custom 3D rendering engine compressed into 64 kilobytes. Won competitions.
+
+The physics papers, if you're curious:
 * [The twisted story of worldsheet scattering in η-deformed AdS5 × S5](https://inspirehep.net/literature/1807758)
 * [On quantum deformations of AdS3 × S3 × T4 and mirror duality](https://inspirehep.net/literature/1877687)
 * [Do Drinfeld twists of AdS5×S5 survive light-cone quantization?](https://inspirehep.net/literature/1994095)
 
-# Things I create
-**Ikaros Academy** –
-I am co-organizer of the [Ikaros Academy](https://ikarosakademie.de/), a three-day seminar located in the medieval castle of Diez.
-We teach university freshmen modern rational methods of game theory and Bayesianism, as promoted by communities like [Effective Altruism](https://www.effectivealtruism.org/) and [LessWrong](https://www.lesswrong.com/).
-My personal emphasis during the academy lies on creating a supportive group feeling.
 
-**Co-Creation Circle** –
-I regularly organize events for the Berlin-based [Co-Creation Circle](https://t.me/+cvE-LjUdIFY0MDEy) – a format of weekly ceremonies focusing on mediation, body awareness, singing, and building community.
-Join us some day!
+# Side projects
 
-**rtificial** –
-I used to code short movies and 3D graphics with my friends of the demogroup [rtificial](https://rtificial.org/).
-Our videos were 3 minutes of flashing visuals and dope sound – fresh out of our custom-made video editor and rendering engine and pressed into 64 kilobytes.
-Unfortunately, due to a lack of creative talent, my interest eventually waned, but the eye for aesthetics remains with me.
-Check out the [Github project](https://github.com/ro0mquy/rtificial)!.
-
-# Things I like
-**Self-Exploration** –
-I enjoy meditation and exploring my mind and emotional space.
-Similarly, I practice Natural Movement and am currently studying with [Joseph Bartz](https://josephbartz.de/).
-
-**Traveling** –
-I recently went backpacking through Colombia, explored the atmosphere of Buenos Aires in Argentina, and overwintered on Cyprus and Malta.
-
-**Reading** –
-Books I enjoyed include: *Meaningness* by David Chapman, *Black Swan* by Nassim Taleb, *Lord of the Rings* by Tolkien, *Three-Body Problem* by Cixin Liu, *Sapiens* by Yuval Harari, *Stories of Your Life and Others* by Ted Chiang, *The Alabaster Girl* by Zan Perrion.
+**Portrait Photography** — I shoot portraits with strong conceptual themes. Keeps me creative outside of code.
 
 
 # Testimonials
 
-{{< Dustin.inline >}}{{`
+{{< Fran.inline >}}{{`
 <blockquote>
-    Yannik is a highly motivated, flexible and creative individual who thrives when given the opportunity to share his ideas and be heard.
+    Yannik uniquely blends new perspectives with action, making ideas happen. A truly rare and valuable combo.
     <footer>
         —
 		<cite class="author">
-			<a href="https://www.linkedin.com/in/dustin-kaiser/">
-				Dr. Dustin Kaiser
+			<a href="https://francisco-simoes.github.io/">
+				Francisco Simoes
 			</a>
 		</cite>
 		,
 		<cite class="company">
-			IT'IS Foundation
+			Utrecht University, Intelligent Systems
 		</cite>
     </footer>
 </blockquote>
-`}}{{< /Dustin.inline >}}
+`}}{{< /Fran.inline >}}
 
 {{< Philipp.inline >}}{{`
 <blockquote>
@@ -75,38 +66,20 @@ Books I enjoyed include: *Meaningness* by David Chapman, *Black Swan* by Nassim 
 </blockquote>
 `}}{{< /Philipp.inline >}}
 
-{{< Alan.inline >}}{{`
+{{< Dustin.inline >}}{{`
 <blockquote>
-    Yannik is curious, unafraid to take risks and try new things.
+    Yannik is a highly motivated, flexible and creative individual who thrives when given the opportunity to share his ideas and be heard.
     <footer>
         —
 		<cite class="author">
-			<a href="https://www.linkedin.com/in/alan-meckel-606969215/">
-				Alan Meckel
+			<a href="https://www.linkedin.com/in/dustin-kaiser/">
+				Dr. Dustin Kaiser
 			</a>
 		</cite>
 		,
 		<cite class="company">
-			ITK Engineering
+			IT'IS Foundation
 		</cite>
     </footer>
 </blockquote>
-`}}{{< /Alan.inline >}}
-
-{{< Fran.inline >}}{{`
-<blockquote>
-    Yannik uniquely blends new perspectives with action, making ideas happen. A truly rare and valuable combo.
-    <footer>
-        —
-		<cite class="author">
-			<a href="https://francisco-simoes.github.io/">
-				Francisco Simoes
-			</a>
-		</cite>
-		,
-		<cite class="company">
-			Utrecht University, Intelligent Systems
-		</cite>
-    </footer>
-</blockquote>
-`}}{{< /Fran.inline >}}
+`}}{{< /Dustin.inline >}}
