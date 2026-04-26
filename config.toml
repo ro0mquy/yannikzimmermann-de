@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
 [params]
 	description = "description"      # Your meta description of the site
 	header_title = "Yannik Zimmermann"                 # Your header title
-	header_subtitle = "PhD Theoretical Physics | Software Engineer | Berlin" # Your header subtitle
+	header_subtitle = "PhD Theoretical Physics | Software Engineer | Warsaw" # Your header subtitle
 	home_image = "portrait.jpg"          # Path to header image starting from the static directory
 [params.style]                             # CSS style overrides
 	backgroundColor = "#f8f9fa"
