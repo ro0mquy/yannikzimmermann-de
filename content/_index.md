@@ -1,19 +1,23 @@
 I did a PhD in theoretical physics. String theory, quantum deformations, 3 published papers. Then I left academia and started building things.
 
-I built ML systems that reconstruct 3D pipeline geometries from magnetic field data. That work ended up being used by BP, Shell, Chevron, and NATO — over 10,000 km of pipelines inspected. I built a reporting automation for a YouTube agency that bumped client retention from 4 to 6+ months. $35K+ in extra revenue from that one change.
+Now I build AI agents and automation systems for marketing agencies. Copy engines trained on your brand voice. Cold email machines. Content multipliers. Currently working with four agencies across DACH and the EU through [Dark Gravity Labs](https://darkgravitylabs.com).
 
-Now I run [Dark Gravity Labs](https://darkgravitylabs.com) — an automation agency focused on talent agencies. Booking automation, contract management, invoicing, talent platforms. If you're doing something manually that a machine should do, I can probably fix that.
+Before that I built ML systems that reconstruct 3D pipeline geometries from magnetic field data. That work ended up at BP, Shell, Chevron, and NATO — over 10,000 km of pipelines inspected.
+
+If you're doing something manually that a machine should do, I can probably fix that.
 
 **mail@yannikzimmermann.de**
 
 
 # What I've built
 
-**ML pipeline inspection** — 3D reconstruction from magnetic field data for a pipeline company serving BP, Shell, Chevron, NATO. First-ever underwater pipeline inspection capability.
+**AI Copy Engine for Winestreet Media** — Brand-trained AI copywriting agents for Marc Roth's VSL agency. Used daily by his creative team. First-draft time cut in half.
 
-**YouTube agency reporting** — One-click reports with YouTube API integration. Retention went from 4 to 6+ months. $35K+ in additional revenue.
+**Reporting automation for Playstack** — One-click reports with YouTube API integration for Milan Smets's growth agency. Per-client reporting went from 3 hours to 3 minutes. Client retention jumped from 4 to 6+ months. ~$35K in additional revenue from that one change.
 
-**Voice agent for therapy startup** — Conversational AI agent, concept to production.
+**Agent infrastructure for The Other Side** — Claude Code and OpenClaw deployment for Tas Zacharis's agency. Slack integration, voice-based task delegation, automated workflows across the team.
+
+**ML pipeline inspection** — 3D reconstruction from magnetic field data for BP, Shell, Chevron, NATO. First-ever underwater pipeline inspection capability.
 
 **[Demoscene visuals](https://rtificial.org/)** — Custom 3D rendering engine compressed into 64 kilobytes. Won competitions.
 
@@ -29,6 +33,22 @@ The physics papers, if you're curious:
 
 
 # Testimonials
+
+{{< Milan.inline >}}{{`
+<blockquote>
+    He doesn't just do the job. He thinks outside the box and helps figure out what else can be done. His passion for automation and optimization shines through in the end result.
+    <footer>
+        —
+		<cite class="author">
+			Milan Smets
+		</cite>
+		,
+		<cite class="company">
+			Playstack — <a href="https://youtu.be/FXNGa_BVYas">watch</a>
+		</cite>
+    </footer>
+</blockquote>
+`}}{{< /Milan.inline >}}
 
 {{< Fran.inline >}}{{`
 <blockquote>
