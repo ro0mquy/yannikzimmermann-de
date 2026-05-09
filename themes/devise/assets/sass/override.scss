@@ -21,6 +21,7 @@ $fa-font-path: "../webfonts";
   width: 100%;
   max-width: 650px;
   min-height: calc(100vh - 105px);
+  line-height: 1.5;
 }
 
 #home-image {
@@ -110,6 +111,11 @@ h4 {
 a {
   text-decoration: none;
   color: #16a085;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #1abc9c;
 }
 
 blockquote {
