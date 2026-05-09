@@ -64,12 +64,22 @@ hr {
 }
 
 h1, h2 {
-  letter-spacing: -0.085rem;
+  font-family: Average, serif;
   font-weight: 700;
+  color: #000;
+}
+
+h2 {
+  font-size: 2.45em;
+}
+
+h1 {
+  font-size: 1.5em;
+  margin-top: 0.9em;
 }
 
 h3, h4 {
-  letter-spacing: -0.065rem;
+  font-family: Average, serif;
   font-weight: 700;
 }
 
