@@ -24,6 +24,15 @@
   })(window, document, "script", "https://bzrcdn.openai.com/sdk/oaiq.min.js");
 
   oaiq("init", { pixelId: "PKXnWhbJrWKSVSd2zJYTL1" });
+
+  // page_viewed is NOT fired automatically by the SDK. Verified against the platform's own
+  // event stream: with only init on the page, no page_viewed event ever arrives, so the
+  // registered page_viewed conversion would sit listening for nothing. It has to be sent
+  // explicitly, and it takes the `contents` shape (customer_action is for lead_created).
+  oaiq("measure", "page_viewed", {
+    type: "contents",
+    contents: [{ id: "80s-neon-2026-09-11", name: "80s Neon landing page", content_type: "page" }]
+  });
 </script>
 
 <style>
