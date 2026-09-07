@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>80s Neon Party · Warsaw · Friday 11 September</title>
 <meta name="description" content="A private 80s neon DJ party in Warsaw on Friday 11 September, near Fabryka Norblina. Guestlist only, 25 spots. Message on Instagram to get in.">
-<link rel="icon" href="favicon-32.png" sizes="32x32">
-<link rel="apple-touch-icon" href="favicon-180.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:title" content="80s Neon Party · Warsaw · Friday 11 September">
 <meta property="og:description" content="Private 80s neon DJ party in Warsaw. Guestlist only, 25 spots.">
 <meta property="og:image" content="https://yannikzimmermann.de/80s-neon/80s-neon-hero.jpg">
@@ -86,6 +86,17 @@
   }
   .facts li b{color:var(--pink);font-weight:700}
 
+  /* The ask is "DM a stranger for a house address". A face and a name answer the
+     question that actually stops people: who am I messaging? */
+  .host{display:flex;align-items:center;gap:12px;margin:0 0 22px}
+  .host img{
+    width:54px;height:54px;flex:0 0 54px;
+    border-radius:50%;object-fit:cover;
+    border:1px solid var(--line);
+  }
+  .host p{margin:0;font-size:14.5px;line-height:1.35;color:var(--muted)}
+  .host b{color:var(--ink);font-weight:600}
+
   h2{
     font-size:11.5px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
     color:var(--muted);margin:0 0 12px;
@@ -114,6 +125,12 @@
     color:var(--muted);display:block;margin:0 0 5px;
   }
   .say q{display:block;font-size:16.5px;quotes:none;line-height:1.35}
+  /* One word survives the app switch. A sentence depends on the clipboard working
+     inside whatever browser ChatGPT hands the link to. */
+  .say q.word{
+    font-size:30px;font-weight:800;letter-spacing:.14em;
+    color:var(--pink);line-height:1.1;
+  }
   .say .copied{
     display:block;font-size:12.5px;color:var(--pink);margin:6px 0 0;
     height:0;opacity:0;overflow:hidden;transition:opacity .2s ease;
@@ -171,20 +188,26 @@
     <li>address by dm</li>
   </ul>
 
+  <div class="host">
+    <img src="host.jpg" width="54" height="54"
+         alt="Yannik Zimmermann, who hosts the party.">
+    <p><b>I'm Yannik.</b> I throw this with a few friends. You're messaging me, not a brand page.</p>
+  </div>
+
   <h2>How to get in</h2>
   <ol>
     <li>Tap the button. It opens a DM with me on Instagram.</li>
-    <li>Send the line in the box.</li>
+    <li>Send me one word.</li>
     <li>I put you on the guest list.</li>
   </ol>
 
   <div class="say">
-    <span class="lbl">Just send me this</span>
-    <q id="msg">hey, i'm curious about the 80s neon party</q>
-    <span class="copied" id="copied">Copied, paste it straight in.</span>
+    <span class="lbl">Send me this one word</span>
+    <q id="msg" class="word">NEON</q>
+    <span class="copied" id="copied">Copied. Paste it, or just type it.</span>
   </div>
 
-  <a class="cta" id="dm" href="https://ig.me/m/zimmermann.yannik?ref=chatgpt-ads-80s-neon">Message me on Instagram</a>
+  <a class="cta" id="dm" href="https://ig.me/m/zimmermann.yannik?ref=chatgpt-ads-80s-neon">Apply for a spot</a>
   <p class="after">Opens a chat with @zimmermann.yannik. Free to come, nothing to pay at the door.</p>
 
   <footer>
@@ -195,7 +218,7 @@
 </main>
 
 <div class="bar" id="bar">
-  <a href="https://ig.me/m/zimmermann.yannik?ref=chatgpt-ads-80s-neon">Message me on Instagram</a>
+  <a href="https://ig.me/m/zimmermann.yannik?ref=chatgpt-ads-80s-neon">Apply for a spot</a>
 </div>
 
 <script>
